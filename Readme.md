@@ -6,6 +6,7 @@ ImapGrab is a cli and gui program (written in Python) that allows you to log int
 
 The basic functions of listing and downloading have been tested.
 No further development or maintenance is planned.
+The repository includes the cli code of the original 0.1.4 release for Python 2 as well as a version for Python 3 modified by me. I've set the version number to 0.2.0. 
 
 The code has been released under the [GPLv2](http://www.gnu.org/licenses/gpl-2.0.html) license.
 
