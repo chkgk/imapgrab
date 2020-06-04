@@ -1,0 +1,6 @@
+venv/
+venv3/
+.idea
+.DS_Store
+*.pyc
+imapgrab/
