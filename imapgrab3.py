@@ -271,7 +271,7 @@ def IG_backup_mail(ig_options):
 
     # Gmail exceptions
     gmail_list = ['[Gmail]', '[Gmail]/All Mail', '[Gmail]/Drafts', '[Gmail]/Sent Mail', '[Gmail]/Spam',
-                  '[Gmail]/Starred', '[Gmail]/Trash',
+                  '[Gmail]/Starred', '[Gmail]/Trash', '[Gmail]/Bin', '[Gmail]/Important',
                   '[Google Mail]', '[Google Mail]/All Mail', '[Google Mail]/Drafts', '[Google Mail]/Sent Mail',
                   '[Google Mail]/Spam', '[Google Mail]/Starred', '[Google Mail]/Trash']
 
