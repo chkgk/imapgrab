@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # coding=utf-8
 
 # Updated to work with Python 3 by Christian König-Kersting, 2020
